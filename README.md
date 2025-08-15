@@ -29,8 +29,8 @@ Para uma explicação detalhada sobre a metodologia, tratamento dos dados e inte
 3. Explore os filtros e visualizações
 
 ## Capturas de Tela
-![Visão Geral](imagens/Powerbi1_arboviroses.png)  
-![Visão 2](imagens/Powerbi2_arboviroses.png)
+![Visão Geral](imagem/Powerbi1arboviroeses.png)  
+![Visão 2](imagem/Powerbi2arboviroses.png)
 
 ## Fontes dos Dados
 - Casos de dengue: [VIGENT - Secretaria de Estado da Saúde de São Paulo](https://vigent.saude.sp.gov.br/sisawebinfo/)  
