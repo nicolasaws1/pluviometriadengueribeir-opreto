@@ -18,7 +18,8 @@ Este projeto é um dashboard interativo desenvolvido no Power BI para análise d
 3. Interaja com os filtros e visualizações
 
 ## Capturas de Tela
-!![Visão Geral](imagem/Powerbi1arboviroeses.png)
+![Visão Geral](imagem/Powerbi1arboviroeses.png)
+
 
 ## Fontes dos Dados
 - Casos de dengue: [VIGENT - Secretaria de Estado da Saúde de São Paulo](https://vigent.saude.sp.gov.br/sisawebinfo/)
