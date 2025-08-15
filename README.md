@@ -1,6 +1,6 @@
 # Dashboard de Dengue - Power BI
 
-Este projeto é um dashboard interativo desenvolvido no Power BI para análise de casos de dengue em Ribeirão Preto/SP Brasil.
+Este projeto é um dashboard interativo desenvolvido no Power BI para análise de casos de dengue em Ribeirão Preto/SP Brasil 2020-2025.
 
 ## Funcionalidades
 - Evolução dos casos ao longo do tempo
