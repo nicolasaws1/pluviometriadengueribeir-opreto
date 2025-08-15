@@ -20,7 +20,7 @@ Para entender mais sobre a metodologia, padrões sazonais e correlações, leia 
 [**Análise epidemiológica da dengue em função de variáveis climáticas em Ribeirão Preto**](https://medium.com/@nicolasaws12/an%C3%A1lise-epidemiol%C3%B3gica-da-dengue-em-fun%C3%A7%C3%A3o-de-variáveis-climáticas-em-ribeir%C3%A3o-preto-536efb1724dd)
 
 ## Estrutura do Repositório
-- `dengue_dashboard.pbix` → arquivo do Power BI
+- `Arbovirose-DengueVS8 (1).pbix` → arquivo do Power BI
 - `dados/` → arquivos CSV/XLSX utilizados no projeto
 - `imagens/` → capturas de tela do dashboard
 - `Dashboard_Dengue.pdf` → versão estática para visualização rápida
