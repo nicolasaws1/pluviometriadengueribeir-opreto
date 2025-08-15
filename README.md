@@ -5,17 +5,19 @@ O estudo correlaciona dados de incidência da doença com variáveis climáticas
 
 ## Funcionalidades
 - Evolução dos casos de dengue ao longo do tempo
-- Comparação entre anos
-- Análise cruzada com dados climáticos (temperatura, umidade e precipitação)
-- Filtros interativos por período e variável
+- Comparação entre anos e entre os mesmos trimestres
+- Análise por trimestre (T1, T2, T3, T4) com filtros interativos
+- Visualização de sazonalidade: destaque dos trimestres com maior incidência ligada à umidade
+- Correlação estatística (coeficiente de Pearson) entre casos e variáveis climáticas (umidade e temperatura)
+- Filtros temporais e por tipo de variável climática
 
 ## Acesse o Dashboard Online
 Você pode visualizar o dashboard publicado no Power BI através do link:  
 [**Abrir no Power BI**](https://app.powerbi.com/groups/me/reports/f20b4410-79ac-4c51-919e-99151cdee757?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=f22c0fda-031f-4c23-b69f-552e01616cae)
 
 ## Artigo no Medium
-Para uma explicação detalhada sobre a metodologia, tratamento dos dados e interpretação dos resultados, acesse o artigo completo:  
-[**Análise epidemiológica da dengue em função de variáveis climáticas em Ribeirão Preto**](https://medium.com/@nicolasaws12/an%C3%A1lise-epidemiol%C3%B3gica-da-dengue-em-fun%C3%A7%C3%A3o-de-vari%C3%A1veis-clim%C3%A1ticas-em-ribeir%C3%A3o-preto-536efb1724dd)
+Para entender mais sobre a metodologia, padrões sazonais e correlações, leia o artigo completo:  
+[**Análise epidemiológica da dengue em função de variáveis climáticas em Ribeirão Preto**](https://medium.com/@nicolasaws12/an%C3%A1lise-epidemiol%C3%B3gica-da-dengue-em-fun%C3%A7%C3%A3o-de-variáveis-climáticas-em-ribeir%C3%A3o-preto-536efb1724dd)
 
 ## Estrutura do Repositório
 - `dengue_dashboard.pbix` → arquivo do Power BI
